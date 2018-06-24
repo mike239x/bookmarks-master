@@ -9,3 +9,4 @@ It may come with extra option for cleaning old bookmarks (this should definitely
 Also an interesting idea is to get some statistics made out of it.
 
 Another idea: use Latent Dirichlet Allocation (LDA) for it.
+From the same guy: If you're doing this with a minimal knowledge of ML, you'll probably have a way easier time with bag-of-words (or LSA) and clustering. They're both pretty simple to implement if you've got a bit of programming know-how. Easier still if you've got a linear algebra library for your language of choice.
